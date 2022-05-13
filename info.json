@@ -1,8 +1,8 @@
 {
     "author" : ["老巫"],
-    "install_msg" : "你全家都弱智",
-    "name" : "吵架王",
-    "short" : "吵架用",
+    "install_msg" : "Cog安裝成功",
+    "name" : "測試用",
+    "short" : "測試用",
     "description" : "操你媽",
     "tags" : ["List of search tags on red portal for your repo."]
 }
