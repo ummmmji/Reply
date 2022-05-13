@@ -1,5 +1,5 @@
-from .timcog import mycog
+from timcog import mycog
 
 
 def setup(bot):
-    bot.add_cog(MyCog(bot))
+    bot.add_cog(mycog(bot))
