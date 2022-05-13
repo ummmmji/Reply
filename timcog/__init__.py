@@ -1,4 +1,4 @@
-from .Reply import timcog
+from .timcog import timcog
 
 
 def setup(bot):
