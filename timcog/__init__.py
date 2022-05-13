@@ -1,4 +1,4 @@
-from .mycog import MyCog
+from .timcog import mycog
 
 
 def setup(bot):
